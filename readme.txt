@@ -1,4 +1,4 @@
-# 🌟 My First Git Project
+﻿# 🌟 My First Git Project
 
 Hi! I'm Aditya 👋  
 This is my **first Git project**, and I created it completely using the **command prompt**.  
@@ -17,3 +17,5 @@ I’ll keep learning and adding more projects as I go 🚀
 
 **Thank you for visiting!**  
 *— Aditya Singh*
+
+---
